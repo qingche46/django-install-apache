@@ -5,7 +5,8 @@
 ##1.2 安装django用pip安装  
 
 1.2.1安装pip
-    sudo apt-get install python-pip
+    sudo apt-get install python-pip  
+    
 1.2.2 利用pip安装django
     （sudo) pip install Django
 ##1.3 检查是否安装成功
