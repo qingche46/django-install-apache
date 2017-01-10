@@ -1,4 +1,4 @@
-# django-install-apache
+# Ubuntu 16.04.1 LTS部署django 1.10.4到Apache_2.4.18
 
 #1. 安装python和django
 ##1.1 ubunt自带python2.7，支持django1.10.4，
