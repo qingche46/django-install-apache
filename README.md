@@ -10,7 +10,8 @@
 1.2.2 利用pip安装django
     （sudo) pip install Django
 ##1.3 检查是否安装成功
-*终端上输入 python ,点击 Enter，进行 python 环境
+终端上输入 python ,点击 Enter，进行 python 环境  
+
     >>> import django
     >>> django.VERSION
     (1, 10, 4, u'final', 0)
